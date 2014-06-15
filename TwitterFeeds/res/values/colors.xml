@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="refresh_color_1">#CB6EE4</color>
+    <color name="refresh_color_2">#D3431E</color>
+    <color name="refresh_color_3">#FFF</color>
+    <color name="refresh_color_4">#0F41A3</color>
+    
+    <color name="username">#285CA1</color>
+    <color name="timeColor">#A6B7CB</color>
+</resources>
